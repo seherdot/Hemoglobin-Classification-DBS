@@ -1,5 +1,6 @@
 # Hemoglobin-Classification-DBS
-CNN-based classification system for hemoglobin level estimation (low/normal/high) using dried blood spot images of cattle.
+Deep Learning-Based Hemoglobin Estimation from Dried Blood Spot in Cattle Using Advanced
+Medical Image Analysis
 ## 🔬 Project Overview
 This project applies deep learning to classify hemoglobin levels 
 (Low / Normal / High) from dried blood spot (DBS) images in cattle, 
