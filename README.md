@@ -7,7 +7,7 @@ as a proof-of-concept for AI-assisted anemia screening in
 resource-limited field settings.
 
 ## 🧠 Methods
-- Trained and compared 5 architectures: Custom CNN, MobileNetV2, 
+- Trained and compared deep learning architectures: Custom CNN, MobileNetV2, 
   EfficientNetV2-B0
 - Best result: Custom CNN — 87% classification accuracy
 
@@ -20,6 +20,6 @@ associated research paper. Code is shared for transparency
 and reproducibility purposes.
 
 ## 👩‍🔬 Author
-Seher Akbar - MPhil Physiology, Islamia University of Bahawalpur  
+Seher Akbar - MPhil Physiology, The Islamia University of Bahawalpur  
 [Seher Akbar](www.linkedin.com/in/seher-akbar-565642374)
 ```
