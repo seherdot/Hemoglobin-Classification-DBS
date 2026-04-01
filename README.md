@@ -10,10 +10,13 @@ resource-limited field settings.
 ## 🧠 Methods
 - Trained and compared deep learning architectures: Custom CNN, MobileNetV2, 
   EfficientNetV2-B0
-- Best result: Custom CNN — 87% classification accuracy
+- Best result: Custom CNN - 87% classification accuracy
 
 ## 📁 Repository Contents
-- `hemoglobin_cnn.ipynb` — Model training and evaluation code
+- 'hemoglobin_cnn.ipynb' - Model training and evaluation code
+- 'efficientnetv2.ipynb' - Model training and evaluation code
+- 'MobileNetV2.ipynb'    - Model training and evaluation code
+- 
 
 ## ⚠️ Data Availability
 Dataset (DBS images) is withheld pending publication of the 
